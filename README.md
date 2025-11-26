@@ -1,27 +1,34 @@
 # DESIGN-AND-SIMULATION-OF-TEMPERATURE-SENSOR-CIRCUIT
 # AIM
-![WhatsApp Image 2025-11-21 at 21 10 53_57b77cb7](https://github.com/user-attachments/assets/fb5b0120-7834-4c4c-b345-80252ceb6130)
+
+![WhatsApp Image 2025-11-26 at 11 18 50_4e6cda19](https://github.com/user-attachments/assets/85c9ae6a-e545-40c1-ac2d-6196b0e563df)
 
 # COMPONENT REQUIRED
-![WhatsApp Image 2025-11-21 at 21 11 22_1619e915](https://github.com/user-attachments/assets/7a79c273-1234-483e-ba97-e55a82c9d555)
+
+![WhatsApp Image 2025-11-26 at 11 22 10_cf0a30e5](https://github.com/user-attachments/assets/1f8b4d5c-912f-437c-b220-acfa75ca1f52)
+
 # SOFTWARE REQUIRED 
-![WhatsApp Image 2025-11-21 at 21 11 45_487591c6](https://github.com/user-attachments/assets/584d023b-dab9-49c4-91e4-fb309f16756d)
+
+![WhatsApp Image 2025-11-26 at 11 22 23_f0fb9e2c](https://github.com/user-attachments/assets/c0ee6a25-eb22-4e0c-9fa1-867d35e64b5c)
+
 
 # THEORY
 
-![WhatsApp Image 2025-11-21 at 21 12 06_4921e7a2](https://github.com/user-attachments/assets/4d30a941-7bee-4e01-b0db-dc0930ae3829)
+![WhatsApp Image 2025-11-26 at 11 19 38_907bbb72](https://github.com/user-attachments/assets/b831ac73-af2b-42ee-a145-97a05343e16a)
+
 
 # PROCEDURE 
 
-![WhatsApp Image 2025-11-21 at 21 12 15_6d56f87c](https://github.com/user-attachments/assets/cd4600c6-8d7d-40ad-975e-cb652f825493)
+![WhatsApp Image 2025-11-26 at 11 19 55_de657ef2](https://github.com/user-attachments/assets/97fa653d-65ac-47d6-9266-8bc4a6ef2fb0)
 
 # CIRCUIT DIAGRAM
 
-![WhatsApp Image 2025-11-21 at 21 13 08_639ebcf6](https://github.com/user-attachments/assets/b76b059d-dcba-4a03-acae-002ac239ec23)
-
+![WhatsApp Image 2025-11-26 at 11 20 26_7cb927a0](https://github.com/user-attachments/assets/090ba84f-7abf-454f-b943-8e8f978c9d66)
 
 # RESULT
-![WhatsApp Image 2025-11-21 at 21 13 09_ae881650](https://github.com/user-attachments/assets/c6eca472-401f-4d11-91f7-21cda731318d)
+
+![WhatsApp Image 2025-11-26 at 11 20 08_c58615c8](https://github.com/user-attachments/assets/c93815d6-bc1b-41d0-b8d5-4eb133b1e7e1)
+
 
 
 
